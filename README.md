@@ -1,2 +1,3 @@
 Starting to code today, so cool
-readmi to day
+readmi to day so cool
+
